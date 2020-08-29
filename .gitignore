@@ -1,0 +1,7 @@
+# Ignore embedded git repositories.
+/**/.git/
+# h5 files are huge in size. So I am ignoring those files.
+/**/*.h5
+/**/*.npy
+/**/*.zip
+/**/*.csv
